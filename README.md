@@ -1,6 +1,6 @@
 # goldmark-SuperSubscript
 
-This Go module contains two extensions for the Markdown parser [Goldmark](https://github.com/yuin/goldmark) introducing super- and subscripts.
+This Go module contains two extensions for the Markdown parser [Goldmark](https://github.com/yuin/goldmark) providing super- and subscripts.
 
 ## Syntax
 
