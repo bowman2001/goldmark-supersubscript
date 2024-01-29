@@ -1,6 +1,7 @@
 package extension
 
 import (
+	"github.com/bowman2001/goldmark-supersubscript/ast"
 	"github.com/yuin/goldmark"
 	gast "github.com/yuin/goldmark/ast"
 	"github.com/yuin/goldmark/parser"
@@ -8,7 +9,6 @@ import (
 	"github.com/yuin/goldmark/renderer/html"
 	"github.com/yuin/goldmark/text"
 	"github.com/yuin/goldmark/util"
-	"goldmark-supersubscript/ast"
 )
 
 type superscriptDelimiterProcessor struct {
