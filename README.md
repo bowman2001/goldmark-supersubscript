@@ -12,4 +12,4 @@ Similar to [markdown-it](https://github.com/markdown-it/markdown-it) the new mar
 
 We need to place one before and one after the text segment like `H~2~O` or `x^2^`. 
 
-**No whitespace** between the two surrounding markup characters is allowed. In case we explicitly want to use space we need to place a non-breaking whitespace---either directly or as HTML entity `&nbsp;`. 
+**No whitespace** between the two surrounding markup characters is allowed. In case we want to insert space we need to place a non-breaking whitespace—either directly or as HTML entity `&nbsp;`. 

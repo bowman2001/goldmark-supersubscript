@@ -1,4 +1,4 @@
-module goldmark-supersubscript
+module github.com/bowman2001/goldmark-supersubscript
 
 go 1.19
 
