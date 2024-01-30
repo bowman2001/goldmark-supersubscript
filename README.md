@@ -17,4 +17,4 @@ Similar to [markdown-it](https://github.com/markdown-it/markdown-it) the new mar
 
 We need to place one before and one after the text segment like `H~2~O` or `x^2^`. 
 
-**No whitespace** between the two surrounding markup characters is allowed. This way the common error using TeX syntax like `x^2 + x^5` does not lead to a completely wrong result. In case we definitely want to insert space we need to place a non-breaking space—either directly or as the HTML entity `&nbsp;`. 
+**No whitespace** between the two surrounding markup characters is allowed. This way the common slip using TeX syntax like `x^2 + x^5` does not lead to messed up HTML. In case we definitely want to insert space we need to place a non-breaking space—either directly or as the HTML entity `&nbsp;`. 
