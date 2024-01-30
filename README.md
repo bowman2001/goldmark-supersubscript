@@ -1,6 +1,7 @@
-[![https://pkg.go.dev/github.com/bowman2001/goldmark-supersubscript](https://pkg.go.dev/badge/github.com/bowman2001/goldmark-supersubscript.svg)](https://pkg.go.dev/github.com/bowman2001/goldmark-supersubscript)
-[![https://coveralls.io/github/bowman2001/goldmark-supersubscript](https://coveralls.io/repos/github/bowman2001/goldmark-supersubscript/badge.svg?branch=master)](https://coveralls.io/github/bowman2001/goldmark-supersubscript)
-[![https://goreportcard.com/report/github.com/bowman2001/goldmark-supersubscript](https://goreportcard.com/badge/github.com/bowman2001/goldmark-supersubscript)](https://goreportcard.com/report/github.com/bowman2001/goldmark-supersubscript)
+[![Documentation](https://pkg.go.dev/badge/github.com/bowman2001/goldmark-supersubscript.svg)](https://pkg.go.dev/github.com/bowman2001/goldmark-supersubscript)
+[![Test Status](https://github.com/bowman2001/goldmark-supersubscript/workflows/test/badge.svg?branch=main&event=push)](https://github.com/bowman2001/goldmark-supersubscript/actions?query=workflow:test)
+[![Coverage Status](https://coveralls.io/repos/github/bowman2001/goldmark-supersubscript/badge.svg)](https://coveralls.io/github/bowman2001/goldmark-supersubscript)
+[![Report Card](https://goreportcard.com/badge/github.com/bowman2001/goldmark-supersubscript)](https://goreportcard.com/report/github.com/bowman2001/goldmark-supersubscript)
 
 # goldmark-SuperSubscript
 
