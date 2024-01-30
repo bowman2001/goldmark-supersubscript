@@ -1,3 +1,7 @@
+[![https://pkg.go.dev/github.com/bowman2001/goldmark-supersubscript](https://pkg.go.dev/badge/github.com/bowman2001/goldmark-supersubscript.svg)](https://pkg.go.dev/github.com/bowman2001/goldmark-supersubscript)
+[![https://coveralls.io/github/bowman2001/goldmark-supersubscript](https://coveralls.io/repos/github/bowman2001/goldmark-supersubscript/badge.svg?branch=master)](https://coveralls.io/github/bowman2001/goldmark-supersubscript)
+[![https://goreportcard.com/report/github.com/bowman2001/goldmark-supersubscript](https://goreportcard.com/badge/github.com/bowman2001/goldmark-supersubscript)](https://goreportcard.com/report/github.com/bowman2001/goldmark-supersubscript)
+
 # goldmark-SuperSubscript
 
 This Go module contains two extensions for the Markdown parser [Goldmark](https://github.com/yuin/goldmark) providing super- and subscripts.
@@ -12,4 +16,4 @@ Similar to [markdown-it](https://github.com/markdown-it/markdown-it) the new mar
 
 We need to place one before and one after the text segment like `H~2~O` or `x^2^`. 
 
-**No whitespace** between the two surrounding markup characters is allowed. In case we want to insert space we need to place a non-breaking whitespace—either directly or as HTML entity `&nbsp;`. 
+**No whitespace** between the two surrounding markup characters is allowed. In case we want to insert space we need to place a non-breaking space—either directly or as HTML entity `&nbsp;`. 
